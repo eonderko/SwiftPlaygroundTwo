@@ -23,3 +23,41 @@ else
 {
     print("I'm not sure about coding")
 }
+
+var numberOne = 1
+
+var numberTwo = 2
+
+if numberOne > numberTwo
+{
+    print("Hello")
+}
+else
+{
+    print("Goodbye")
+}
+
+var numberThree = "Wah"
+
+var numberFour = "Woah"
+
+var numberSeven = numberThree + numberFour
+
+if numberThree == numberFour
+{
+    print(numberSeven)
+}
+else
+{
+    print("Blah")
+}
+
+var numberFive = false
+
+var numberSix = true
+
+if true
+{
+    print("Yes")
+}
+
